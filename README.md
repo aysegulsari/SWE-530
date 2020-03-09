@@ -1,2 +1,2 @@
 # Swe-530
-Repository for SWE 573 course
+Repository for SWE 530 course
